@@ -1,0 +1,2 @@
+# Boolean-Logic-AND-OR-
+Boolean Logic. Rules (1 = only John not Lisa). (2 = having both John &amp; Lisa)  (3 = only Lisa not John)  4 = (only John, plus having both John &amp; Lisa)  5 = (only Lisa, plus having both John &amp; Lisa  ).    Write if statements that boolean test for 1) only john exclude everything else; 2) only Lisa exclude everything else; both John &amp; Lisa, exclude everything else; 3)  Having both John &amp; Lisa;  4) John, not having both John &amp; Lisa; 5) Lisa, not having both John &amp; Lisa).
